@@ -19,6 +19,8 @@ library('tidyverse')
 
 In this assignment you will take data given from the `student_ratio` variable below and make relevant charts from it. Reading the data into R has been taken care of for you, but the visualization is up to you!
 
+In the file `tidy_tuesday.html` you will find how the results of the charts should look.
+
 You are also responsible for completing all "Exercises" in Chapter 3 of R for Data Science. 
 
 ```{r import_data, warnings=FALSE, message=FALSE }
@@ -96,4 +98,31 @@ ggplot(filtered_data, aes(x=<add_something_here>, y=<add_something_here>)) +
   geom_bar(stat='identity') + 
   <add_something_here>
 ```
+
+----
+
+### Answer the following questions:  
+
+From "The Good, The Bad, The Ugly" data visualization lecture:  
+
+**Name 2 things that make a "Good Visualization":**
+  - 
+  - 
+    
+  
+**Name 2 things that make a "Bad Visualization":**
+  - 
+  - 
+  
+
+**Name 2 things that make an "Ugly Visualization":**
+  - 
+  - 
+  
+**What type of plot is best for visualizing relationships between two variables?**  
+  - 
+
+
+**When would you use a pie chart?**
+  - 
 
