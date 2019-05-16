@@ -21,7 +21,7 @@ In this assignment you will take data given from the `student_ratio` variable be
 
 In the file `tidy_tuesday.html` you will find how the results of the charts should look.
 
-You are also responsible for completing all "Exercises" in Chapter 3 of R for Data Science. 
+You are also responsible for completing all "Exercises" in Chapter 1 of R for Data Science. 
 
 ```{r import_data, warnings=FALSE, message=FALSE }
 # This is the data
